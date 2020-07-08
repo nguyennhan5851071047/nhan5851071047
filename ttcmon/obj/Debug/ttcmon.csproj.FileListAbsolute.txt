@@ -1,0 +1,15 @@
+E:\ttcmon\ttcmon\bin\Debug\ttcmon.exe.config
+E:\ttcmon\ttcmon\bin\Debug\ttcmon.exe
+E:\ttcmon\ttcmon\bin\Debug\ttcmon.pdb
+E:\ttcmon\ttcmon\obj\Debug\ttcmon.csprojAssemblyReference.cache
+E:\ttcmon\ttcmon\obj\Debug\ttcmon.Dangnhapcs.resources
+E:\ttcmon\ttcmon\obj\Debug\ttcmon.Form1.resources
+E:\ttcmon\ttcmon\obj\Debug\ttcmon.KhachHang.resources
+E:\ttcmon\ttcmon\obj\Debug\ttcmon.NhanVien.resources
+E:\ttcmon\ttcmon\obj\Debug\ttcmon.PhieuNhap.resources
+E:\ttcmon\ttcmon\obj\Debug\ttcmon.Properties.Resources.resources
+E:\ttcmon\ttcmon\obj\Debug\ttcmon.SanPham.resources
+E:\ttcmon\ttcmon\obj\Debug\ttcmon.csproj.GenerateResource.cache
+E:\ttcmon\ttcmon\obj\Debug\ttcmon.csproj.CoreCompileInputs.cache
+E:\ttcmon\ttcmon\obj\Debug\ttcmon.exe
+E:\ttcmon\ttcmon\obj\Debug\ttcmon.pdb
